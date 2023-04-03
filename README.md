@@ -8,3 +8,4 @@ Kaggle 문제를 풀고 정리하는 저장소입니다.
 |[Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand)|HAI 스터디 2회차|따릉이 수요 예측|O|[교재 6단원](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)|
 |[Cat In The Dat](https://www.kaggle.com/competitions/cat-in-the-dat)|HAI 스터디 3회차| 범주형 데이터 이진 분류 |O|[교재 7단원](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)|
 |[KDT_AI_1](https://www.kaggle.com/competitions/kdtai-1)|프로그래머스 내부 Competition| 흉부 엑스선 이미지|O|[교재13단원](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)|
+|[Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)|HAI 스터디 4회차|안전 운전자 예측|X|[교재8단원](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)|
