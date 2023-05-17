@@ -13,3 +13,5 @@ Kaggle 문제를 풀고 정리하는 저장소입니다.
 |[Space Titanic](https://www.kaggle.com/competitions/spaceship-titanic)|프로그래머스 내부 Competition 2회차|타이타닉 우주버전|O|X|
 |[Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)|HAI 스터디 5회차|향후 판매량 예측|O|[교재9단원](https://github.com/BaekKyunShin/)|
 |[Aerial Cactus Identification](https://www.kaggle.com/competitions/aerial-cactus-identification/)|HAI 스터디 6회차|항공 사진내 선인장 식별|O|[교재11단원](https://github.com/BaekKyunShin/)|
+|[Plant Pathology 2020 - FGVC7](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7)|HAI 스터디 7회차|병든 잎사귀 식별|X|[교재12단원](https://github.com/BaekKyunShin/)|
+|[KDT_AI_3](https://www.kaggle.com/competitions/kdtai-3)|프로그래머스 내부 Competition 3회차|Object Detection(CV)|X|X|
