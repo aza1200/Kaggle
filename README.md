@@ -15,4 +15,4 @@ Kaggle 문제를 풀고 정리하는 저장소입니다.
 |[Aerial Cactus Identification](https://www.kaggle.com/competitions/aerial-cactus-identification/)|HAI 스터디 6회차|항공 사진내 선인장 식별|O|[교재11단원](https://github.com/BaekKyunShin/)|
 |[Plant Pathology 2020 - FGVC7](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7)|HAI 스터디 7회차|병든 잎사귀 식별|O|[교재12단원](https://github.com/BaekKyunShin/)|
 |[KDT_AI_3](https://www.kaggle.com/competitions/kdtai-3)|프로그래머스 내부 Competition 3회차|Object Detection(CV)|O|[유튜브](https://www.youtube.com/watch?v=AM8D4j9KoaU)|
-|[Chest-X-Ray images](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)|HAI 스터디 8회차|Pytorch Lightning with EfficientNet|O|X|
+|[Chest-X-Ray images](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)|HAI 스터디 8회차|흉부 엑스선 이미지 판별|O|X|
