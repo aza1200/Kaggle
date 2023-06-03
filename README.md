@@ -10,7 +10,7 @@ Kaggle 문제를 풀고 정리하는 저장소입니다.
 |[KDT_AI_1](https://www.kaggle.com/competitions/kdtai-1)|프로그래머스 내부 Competition 1회차| 흉부 엑스선 이미지|O|[교재13단원](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)|
 |[Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)|HAI 스터디 4회차|안전 운전자 예측|O|[교재8단원](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)|  
 |[KDT_AI_2](https://www.kaggle.com/competitions/kdtai-2/overview)|프로그래머스 내부 Competition 2회차|한국어 혐오댓글 분류(NLP)|O|직접 대회 주체|
-|[Space Titanic](https://www.kaggle.com/competitions/spaceship-titanic)|프로그래머스 내부 Competition 2회차|타이타닉 우주버전|O|X|
+|[Space Titanic](https://www.kaggle.com/competitions/spaceship-titanic)|프로그래머스 Monthly Project|타이타닉 우주버전|O|X|
 |[Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)|HAI 스터디 5회차|향후 판매량 예측|O|[교재9단원](https://github.com/BaekKyunShin/)|
 |[Aerial Cactus Identification](https://www.kaggle.com/competitions/aerial-cactus-identification/)|HAI 스터디 6회차|항공 사진내 선인장 식별|O|[교재11단원](https://github.com/BaekKyunShin/)|
 |[Plant Pathology 2020 - FGVC7](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7)|HAI 스터디 7회차|병든 잎사귀 식별|O|[교재12단원](https://github.com/BaekKyunShin/)|
